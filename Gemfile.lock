@@ -1,15 +1,23 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    addressable (2.5.2)
+      public_suffix (>= 2.0.2, < 4.0)
+    colorize (0.8.1)
+    css_parser (1.6.0)
+      addressable
     mini_portile2 (2.3.0)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
+    public_suffix (3.0.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  colorize
+  css_parser
   nokogiri
 
 BUNDLED WITH
-   1.15.4
+   1.16.1
