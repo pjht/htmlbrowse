@@ -6,9 +6,9 @@ GEM
     colorize (0.8.1)
     css_parser (1.6.0)
       addressable
-    mini_portile2 (2.3.0)
-    nokogiri (1.8.2)
-      mini_portile2 (~> 2.3.0)
+    mini_portile2 (2.4.0)
+    nokogiri (1.10.4)
+      mini_portile2 (~> 2.4.0)
     public_suffix (3.0.2)
 
 PLATFORMS
